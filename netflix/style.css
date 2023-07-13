@@ -1,0 +1,224 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.logo1{
+    position: relative;
+    height: 15vh;
+    width: 13%;
+
+   margin-left: 10%;
+}
+
+.logo{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background: linear-gradient(rgba(39, 36, 36, 0.5),rgba(20, 19, 19, 0.5)),url(assets/net.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* padding: 20px; */
+
+}
+.img{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 4%;
+}
+body{
+    background-color: rgb(117, 112, 112);   
+} 
+.box{
+    margin-top:3%;
+    margin-right: 10%;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+}
+.button{
+    margin-left: 10pt;
+    height: 24pt;
+    width: 50pt;
+    border: none;
+    background-color: red;
+    color: white;
+    justify-content: space-between;
+    border-radius: 4px;
+    align-items: center;
+    margin:0 auto; 
+    position: relative;
+    font-size: 11px;
+}
+select{
+    height: 23pt;
+    width: 70pt;
+    border-color: white 20%;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    border-radius: 4px;
+    /* font-weight: bold; */
+    font-size: 12px;
+    font-family: sans-serif;
+    
+}
+ .content{
+        margin-top: 14%;
+        text-align: center;
+        color: aliceblue;
+          
+   } 
+   h1{
+    font-weight: bold;
+    font-size: 260%;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+p{
+    font-size: 20px;
+    color: #fff;
+    font-family: sans-serif;
+ }
+ .input{
+    /* padding: 10px 30px; */
+    height: 6vh;
+    width: 40%;
+    text-align: left;
+    /* font-size: large; */
+    background-color: transparent;
+    border-radius: 4px; 
+    /* transition: color 250ms cubic-bezier(0.5, 0, 0.1, 1) 0s; */
+ }
+::placeholder{
+    color: #b4adad;
+    
+}
+ .btn{
+    /* font-size: large; */
+    height: 7vh;
+    width: 10%;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-family: sans-serif;
+ }
+ .footer p{
+    color: #aca1a1;
+    font-size: 18px;
+ }
+ .footer1 ul li a{
+    text-decoration: underline;
+    color: rgb(219, 211, 211);
+    font-size: 17px;
+    
+   
+ }
+ .footer1 ul li{
+    /* margin-left:20px ;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-size: large; */
+    list-style-type: none;
+    margin-top: 12px;
+ }
+ .footer1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+ }
+ .footer{
+    /* margin-left:20px ; */
+    margin-top: 1%;
+    
+    background-color: black;
+    width: 100%;
+   height: 240px;
+
+
+ }
+ .sentions{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    width: 100%;
+    height: 60%;
+    margin-top: 11%
+    
+ }
+ .mm{
+    margin-top: 10%;
+    font-size: 16px;
+    font-family: sans-serif;
+ }
+ .ms{
+    margin-top: 4%;
+    }
+.m1{
+    margin-top: 4%;
+}
+.m2{
+    margin-top: 8%;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.sentions1{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    width: 100%;
+    height: 60%;
+    margin-top: 1%
+    
+ }
+ 
+ .sentions2{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    width: 100%;
+    height: 60%;
+    margin-top: 1%
+    
+ }
+ .sentions3{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    width: 100%;
+    height: 60%;
+    margin-top: 1%
+    
+ }
+ .mm3{
+    margin-top: 8%;
+    font-size: 16px;
+    font-family: sans-serif;
+ }
+ .m4{
+    margin-top: 4%;
+    }
+.m5{
+    margin-top: 4%;
+}
+.m6{
+    margin-top: 10%;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.scroll {
+    margin-top: 18px;
+    margin-left: -5px;
+    height: 15pt;
+    width: 50pt;
+    border-color: white 20%;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    border-radius: 4px;
+    /* font-weight: bold; */
+    font-size: 14px;
+    font-family: sans-serif;
+}
