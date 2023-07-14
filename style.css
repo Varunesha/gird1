@@ -19,7 +19,7 @@ h2{
 }
 .container > div{
     cursor: pointer;
-    height: 185px;
+    height: 200px;
     background-position: fixed;
     background-size: cover;
     display: flex;
